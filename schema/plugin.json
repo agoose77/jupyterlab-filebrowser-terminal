@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyterlab-filebrowser-terminal",
+  "description": "jupyterlab-filebrowser-terminal settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}

@@ -17,7 +17,7 @@ A simple extension to open a JupyterLab terminal in the current filebrowser loca
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab_filebrowser_terminal
+pip install jupyterlab-filebrowser-terminal
 ```
 
 ## Uninstall
@@ -25,7 +25,7 @@ pip install jupyterlab_filebrowser_terminal
 To remove the extension, execute:
 
 ```bash
-pip uninstall jupyterlab_filebrowser_terminal
+pip uninstall jupyterlab-filebrowser-terminal
 ```
 
 

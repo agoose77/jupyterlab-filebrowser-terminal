@@ -1,7 +1,9 @@
 # jupyterlab_filebrowser_terminal
+[![pypi-badge][]][pypi]
 
-![Github Actions Status](https://github.com/agoose77/jupyterlab-filebrowser-terminal/workflows/Build/badge.svg)
-
+[gha-badge]: https://github.com/agoose77/jupyterlab-filebrowser-terminal/workflows/Build/badge.svg
+[pypi-badge]: https://img.shields.io/pypi/v/jupyterlab-filebrowser-terminal
+[pypi]: https://pypi.org/project/jupyterlab-filebrowser-terminal
 A simple extension to open a JupyterLab terminal in the current filebrowser location
 
 
